@@ -1,6 +1,6 @@
 ## Oie, eu sou o Matheus Morishita. Um futuro Cientista de Dados 😃
 
-- 🔭 Estou no curso de Matemática Industrial na UFPR (3/8)
+- 🔭 Estou no curso de Matemática Industrial na UFPR (4/8)
 - 🌱 Estou me aprofundando em Python e Julia
 - 😄 Pronomes: Ele / Dele
 
