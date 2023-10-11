@@ -1,9 +1,5 @@
-## Oie, eu sou o Matheus Morishita. Um futuro Cientista de Dados 😃
-
-- 🔭 Estou no curso de Matemática Industrial na UFPR (4/8)
-- 🌱 Estou me aprofundando em Python e Julia
-- 😄 Pronomes: Ele / Dele
-
+# Bem Vindo a minha Página do GitHUB
+- Atualmente eu estou me aprofundando em Python e Julia
 <div> 
    <a href = "mailto:matheusmorishita@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
    <a href="https://www.linkedin.com/in/matheusmorishita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
